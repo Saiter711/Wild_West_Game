@@ -1,0 +1,2 @@
+pin=5707
+autorzy=Lempio Zalewski

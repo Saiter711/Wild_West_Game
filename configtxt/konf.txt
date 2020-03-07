@@ -1,0 +1,3 @@
+celownik=celownikb.jpeg
+życia=2
+

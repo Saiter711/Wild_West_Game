@@ -1,0 +1,14 @@
+﻿Witajcie!
+Oto gra Wild West, prosty shooter wykonany na potrzeby przedmiotu PROZE.
+Mimo prostej mechaniki gry przedstawimy wam kilka najważniejszych zasad:
+1. Gra polega na zestrzeleniu poruszających się obiektów za pomocą myszy
+2. Każdy strzał pochłania jeden nabój
+3. Aby przejść na kolejny poziom zestrzel wszystkie obiekty
+4. Im wyższy poziom tym szybciej poruszają się obiekty oraz ich rozmiar ulega zmniejszeniu
+5. W czasie gry pojawiają się paczki zawierające dodatkową amunicję
+6. Gra kończy się po wystrzelaniu wszystkich naboji albo przejściu wszystkich poziomów
+
+W trakcie gry możesz skorzystać z funkcji pauzy która wstrzymuje rozgrywkę na jak długo chcesz
+oraz wybrać jeden z dostępnych celowników.
+
+Życzymy miłej gry i podbicia dzikiego zachodu :)
