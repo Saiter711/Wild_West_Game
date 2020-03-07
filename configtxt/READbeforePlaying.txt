@@ -1,0 +1,1 @@
+In order to run the game properly, you have to unpack the .txt files, that are in this directory, to the main directory (the one that has all the directories, for example: resources, src).
