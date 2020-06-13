@@ -14,7 +14,7 @@ You can see that you are able to check the highscores and quickly learn about ho
 ## What do I do?
 First you need to write your nickname down and choose the difficulty of the game:
 
-![](https://github.com/Saiter711/Wild_West_Game/blob/master/extras/level.PNG
+![](https://github.com/Saiter711/Wild_West_Game/blob/master/extras/level.PNG)
 
 Then, the game starts:
 
@@ -57,6 +57,6 @@ You are also added to the list of scores and who knows, maybe if it's high enoug
 * C. Zalewski
 
 
-###Dare to try yourself on the Wild West?
+## Dare to try yourself on the Wild West?
 
 
